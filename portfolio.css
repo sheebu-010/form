@@ -1,0 +1,44 @@
+
+*{
+  padding: 0px;
+  margin: 0px;
+  /* color: white; */
+}
+#body{
+  background-color: black;
+}
+#nav{
+  text-align: center;
+  height: 730px;
+  width: 100px;
+  background-color: black;
+   margin-bottom: 50px;
+  display:inline-block;
+}
+a{
+  margin-bottom: 50px;
+}
+ #box1{
+  display: flex;
+  margin-left: 300px; 
+  height: 200px;
+  width: 200px;
+  background-color: pink; 
+
+}
+
+button{
+  height: 25px;
+  width: 100px;
+}
+#box2{
+  background-color: black;
+  height: 40px;
+  width: px;
+}
+
+#box3{
+  background-color:grey;
+  height: 40px;
+  width: px;
+}

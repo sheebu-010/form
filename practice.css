@@ -1,0 +1,17 @@
+*{
+    font-family: 'times new roman';
+}
+h1{
+    text-transform: capitalize;
+    text-align: center;
+    font-family: 'Times New Roman';
+}
+#one{
+    font-family:cursive;
+}
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 15px;
+}

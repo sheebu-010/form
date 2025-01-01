@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+}
+div{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border: 2px solid black;
+}
+#container{
+    height: 200px;
+    width: 600px;
+    display: flex;
+    /* flex-direction:column; */
+    /* justify-content: flex-end; */
+    /* justify-content:center; */
+    justify-content: space-around;
+}
+#box1{
+    background-color: aqua;
+}
+#box2{
+    background-color: aliceblue;
+}
+#box3{
+    background-color: blanchedalmond;
+}
+#box4{
+    background-color: aquamarine;
+}

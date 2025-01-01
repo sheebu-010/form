@@ -1,0 +1,56 @@
+h1{
+    /* font-weight: lighter; */
+    text-decoration: blueviolet underline dotted;
+    text-align: ;
+    color:blue;
+}
+p{
+    color:rgb(21, 34, 30);
+}
+button{
+    color:brown;
+    background-color:white ;
+}
+body{
+    background-color:rgba(128, 128, 128, 0.396) #ffff00;
+}
+/* universal selector mdn*/
+*{
+    color: pink;
+} 
+/* id selector */
+#headingOne{
+    color:magenta;
+}
+/* class selector */
+.myClass{
+    color:rosybrown  ;
+}
+#box {
+    background-color:burlywood;
+    color : rgb(255, 240, 240);
+}
+p{
+    color: rgb(96, 15, 15);
+}
+#h2{
+    font-weight: normal;
+}
+#h1{
+    font-weight: 800;
+}
+#h3{
+    font-weight: bolder;
+}
+#one{
+    font-family:cursive;
+}
+#two{
+    font-family:arial black;
+}
+#three{
+    font-size: 20px;
+}
+#four{
+    font-size: 15px;
+}
